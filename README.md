@@ -1,3 +1,4 @@
+ An abstract description of Some Algorithms about spelling mistakes detection and correction
  
 • Classic NLP Approach
 Norvig’s Spelling Corrector
