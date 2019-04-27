@@ -1,5 +1,3 @@
- Spelling-Detection-and-Correction
- 
  
 • Classic NLP Approach
 Norvig’s Spelling Corrector
